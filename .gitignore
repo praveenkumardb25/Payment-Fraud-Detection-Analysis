@@ -1,0 +1,25 @@
+
+# Large datasets
+CLEAN DATA/
+RAW DATA/
+DATA PREPARATION/OUTPUT FILE/
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+
+# Sensitive files
+.env
+*.pem
+
+# Temporary files
+*.log
+*.tmp
